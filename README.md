@@ -15,8 +15,8 @@ The goal is to provide a **system-level blueprint**, not just a code structure.
 The system follows a **layered pipeline architecture** with supporting computational modules.
 ```text
 Input → Processing → Classification → Output
-              ↑
-   ETL / Math / Models / Control
+              ↑             ↑
+        ETL / Math    Models / Control
 ```
 ### 🔹 Core Flow
 * **Input → Processing → Classification → Output**
