@@ -16,7 +16,7 @@ The system follows a **layered pipeline architecture** with supporting computati
 ```text
 Input → Processing → Classification → Output
               ↑             ↑
-        ETL / Math    Models / Control
+        Trans / Math   Models / Control
 ```
 ### 🔹 Core Flow
 * **Input → Processing → Classification → Output**
